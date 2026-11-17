@@ -1,0 +1,22 @@
+{
+  "name": "csc581-final-gameServer",
+  "version": "1.0.0",
+  "description": "I hope I get a good grade",
+  "author": "Seth Conley",
+  "license": "MIT",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sc942958/CSC581-Final-Project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4",
+    "ws": "^8.20.0",
+    "jsdom": "^29.1.0",
+    "dompurify": "^3.4.1"
+  }
+}
